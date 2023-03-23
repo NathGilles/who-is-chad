@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926672880469",
+    "project_id": "whos-chad-71a4a",
+    "storage_bucket": "whos-chad-71a4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926672880469:android:6f2ddbb34a78157b9225dc",
+        "android_client_info": {
+          "package_name": "com.example.chad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926672880469-93ql6pisp9dj5ecmpl3kjokbtbvai1io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu9IomD6a-vIploXrI6xjR_rDuPdpKYgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926672880469-93ql6pisp9dj5ecmpl3kjokbtbvai1io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
